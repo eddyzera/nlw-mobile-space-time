@@ -5,7 +5,7 @@ import {
   Roboto_700Bold,
 } from '@expo-google-fonts/roboto'
 import { BaiJamjuree_600SemiBold } from '@expo-google-fonts/bai-jamjuree'
-import { Text, ImageBackground } from 'react-native'
+import { ImageBackground } from 'react-native'
 import blurBg from './src/assets/bg-blur.png'
 
 export default function App() {
